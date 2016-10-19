@@ -1,0 +1,16 @@
+begin
+    prog = ircamera
+    button = Power
+    config = Power
+    repeat = 0
+end
+
+
+begin
+    prog = ircamera
+    button = Enter
+    config = Enter
+    repeat = 0
+end
+
+              

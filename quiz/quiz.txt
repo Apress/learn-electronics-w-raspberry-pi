@@ -1,0 +1,25 @@
+The Raspberry Pi 2 
+has 1GB of RAM
+ 
+True or False?
+T
+PiZero is the
+name of a Python
+electronics library
+True or False?
+F
+The Raspberry Pi has 
+wifi on the main 
+board. 
+True or False?
+F
+The RPi model B+ 
+has 4 x USB2 ports
+ 
+True or False?
+T
+The HDMI Connector
+on the RPi 2
+is a mini-HDMI?
+True or False?
+F

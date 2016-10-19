@@ -1,0 +1,12 @@
+[Unit]
+Description=Wii Remote Robot Control
+Wants=bluetooth.target
+After=bluetooth.target
+
+[Service]
+Type=simple
+ExecStart=/home/pi/robot/wii-robotcontrol.py
+User=pi
+
+[Install]
+WantedBy=default.target

@@ -1,0 +1,11 @@
+[Unit]
+Description=PIR Camera program
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /home/pi/learnelectronics/pircamera/pir-camera.py
+User=pi
+
+[Install]
+WantedBy=default.target
+
